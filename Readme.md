@@ -22,7 +22,7 @@ Get STRING_NAME from here:
 
 
 ## Commands 🛠
-
+.ديشا
 - `/play <song name>` - play song you requested
 - `/song <song name>` - download songs you want quickly
 #### Admins only.
